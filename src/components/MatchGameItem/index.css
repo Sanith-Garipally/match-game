@@ -1,0 +1,13 @@
+.tb-list-item {
+  width: 80px;
+  height: 80px;
+}
+.tb-img {
+  width: 100%;
+}
+.tb-list-btn {
+  border: none;
+  background: transparent;
+  outline: none;
+  cursor: pointer;
+}

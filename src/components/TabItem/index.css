@@ -1,0 +1,13 @@
+.tab-btn {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #fff;
+  background: transparent;
+  padding: 5px;
+  margin-right: 10px;
+}
+.active-tab-btn {
+  border-bottom: 2px solid #fec653;
+  color: #fec653;
+}
